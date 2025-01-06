@@ -15,7 +15,7 @@ sh kafka-topics.sh --bootstrap-server localhost:9092 --create --topic casa-vente
 
 3) Step 3 : Launch the main method of the MainApplication class.
    
-5) Send some messages :
+4) Step 4: Send some messages :
 
    http://localhost:8081/send/111/casa/1000
    
@@ -25,6 +25,12 @@ sh kafka-topics.sh --bootstrap-server localhost:9092 --create --topic casa-vente
 
    http://localhost:8081/send/999/rabat/1000
    
+5) Step 5 : Check the result
+
+   http://localhost:8081/ventes/customer/999
+
+   ![image](https://github.com/user-attachments/assets/9b12f447-b531-40e5-ab9e-f0f7ef0661f5)
+
 
    
 
