@@ -6,7 +6,12 @@
 
    docker ps
 
-   ![image](https://github.com/user-attachments/assets/cc5ca5ea-7b0c-4407-99f2-559cefce13a7)
+  ![image](https://github.com/user-attachments/assets/faf7ed11-626f-45a4-b543-a47012b13b80)
+
+  
+
+
+   
 
    
 
